@@ -1,6 +1,4 @@
-
-
-
+# **********  Week 2 Assignment **********
 
 # 1. Creates an empty List.
 my_list = []
